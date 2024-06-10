@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Harry Shoemaker, Senior Web Application Engineer on the Reports and Sites team.
+I'm Harry Shoemaker, Senior Web Application Engineer on the Reports and Sites team. I'm full-stack, mostly working in .NET, C#, Angular, TypeScript, and SQL.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harry-shoemaker-7a868057/)!
 
 <!--
 **hshoemaker-istation/hshoemaker-istation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
